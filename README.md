@@ -20,3 +20,12 @@ localStorage.removeItem("example");
 
 // Vemos que nuevamente es null
 console.log(localStorage.getItem("example"));
+
+
+Hecho por: 
+Santiago Marcenaro
+Mateo Amorin
+Mauricio Dopazo
+Fernando Labandeira
+Joaquin Rodriguez
+Gaston Martinez
